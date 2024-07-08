@@ -2,10 +2,6 @@
 
 This is the official data repository for "Differentiable Modeling and Optimization of Non-aqueous Li-based Battery Electrolyte Solutions Using Geometric Deep Learning" published in Nature Communications.
 
-# Citation
-
-Coming soon.
-
 # License
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
