@@ -1,4 +1,4 @@
-sub1_name,x1 (mole fraction),sub2_name,x2 (mole fraction),sub3_name,x3 (mole fraction),salt,x4 (mole fraction),x5 (mole fraction),temperature (K),ionic conductivity (mS/cm)
+sub1_name,x1 (mole fraction),sub2_name,x2 (mole fraction),sub3_name,x3 (mole fraction),salt,"x4 (anion, mole fraction)","x5 (cation, mole fraction)",temperature (K),ionic conductivity (mS/cm)
 Propylene Carbonate,0,Fluoroethylene Carbonate,0.904761905,Ethylene Carbonate,0,LiPF6,0.047619048,0.047619048,243.15,0.0416
 Propylene Carbonate,0,Fluoroethylene Carbonate,0.824817518,Ethylene Carbonate,0,LiPF6,0.087591241,0.087591241,243.15,0.0487
 Propylene Carbonate,0,Fluoroethylene Carbonate,0.759014952,Ethylene Carbonate,0,LiPF6,0.120492524,0.120492524,243.15,0.0301
