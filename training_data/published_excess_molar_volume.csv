@@ -1,4 +1,4 @@
-sub1_name,x1,sub2_name,x2,env1,excess_molar_volume/(cm3/mol),link
+sub1_name,x1 (mole fraction),sub2_name,x2 (mole fraction),temperature (K),excess_molar_volume/(cm3/mol),link
 Acetonitrile,0,gamma-butyrolactone,1,293.15,0,https://www.sciencedirect.com/science/article/pii/S0167732215301781
 Acetonitrile,0.1054,gamma-butyrolactone,0.8946,293.15,-0.274174512,https://www.sciencedirect.com/science/article/pii/S0167732215301781
 Acetonitrile,0.1934,gamma-butyrolactone,0.8066,293.15,-0.361331868,https://www.sciencedirect.com/science/article/pii/S0167732215301781

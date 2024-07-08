@@ -1,4 +1,4 @@
-sub1_name,x1,sub2_name,x2,env1,excess_molar_enthalpy/(J/mol),link
+sub1_name,x1 (mole fraction),sub2_name,x2 (mole fraction),temperature (K),excess_molar_enthalpy/(J/mol),link
 Propylene Carbonate,0.0508,Anisole,0.9492,293.15,63,https://doi.org/10.1021/je000148y
 Propylene Carbonate,0.0967,Anisole,0.9033,293.15,112,https://doi.org/10.1021/je000148y
 Propylene Carbonate,0.1383,Anisole,0.8617,293.15,155,https://doi.org/10.1021/je000148y
